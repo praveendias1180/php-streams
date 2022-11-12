@@ -11,3 +11,7 @@ Most installations of PHP are set to use little memory—generally around 64MB. 
 https://www.youtube.com/watch?v=sm1HUrnsxLI
 
 ![](help.png)
+
+# PHP Process Monitoring
+
+![](proc.png)
