@@ -3,7 +3,7 @@
 if(function_exists('curl_init')){
     echo 'cURL exists'. PHP_EOL;
 } else {
-    echo 'cURL does not exit'. PHP_EOL;
+    echo 'cURL does not exist'. PHP_EOL;
 }
 
 $postdata = http_build_query(
