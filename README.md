@@ -35,3 +35,10 @@ https://valgrind.org/
 ![](valgrind-web.png)
 
 ![](valgrind.png)
+
+# POST without cURL
+
+![](post-no-curl.png)
+
+# POST with fopen
+
