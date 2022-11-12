@@ -23,3 +23,7 @@ https://www.youtube.com/watch?v=sm1HUrnsxLI
 ## smaps
 
 ![](smaps.png)
+
+# PHP Internal Heap Allocator
+
+![](heap.png)
