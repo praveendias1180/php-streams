@@ -15,3 +15,11 @@ https://www.youtube.com/watch?v=sm1HUrnsxLI
 # PHP Process Monitoring
 
 ![](proc.png)
+
+# Process Memory Map
+
+![](pmap.png)
+
+## smaps
+
+![](smaps.png)
