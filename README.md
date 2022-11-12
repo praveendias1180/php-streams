@@ -27,3 +27,11 @@ https://www.youtube.com/watch?v=sm1HUrnsxLI
 # PHP Internal Heap Allocator
 
 ![](heap.png)
+
+# Valgrind Analysis
+
+https://valgrind.org/
+
+![](valgrind-web.png)
+
+![](valgrind.png)
